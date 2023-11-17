@@ -2,7 +2,7 @@
 
 The files are numbered following the [Module][Part][Order] format.
 
-#### Things to read about:
+#### Things to further read about:
 * How "Balanced Accuracy" is computed.
 * HistGradientBoostingClassifier.
 * The mathematical definition of "kernels" and "support vector machines" [SVM documentations](https://scikit-learn.org/stable/modules/svm.html) (421).
@@ -10,3 +10,4 @@ The files are numbered following the [Module][Part][Order] format.
 * NyStroem
 * XOR
 * RBF. It can be shown mathematically that the [inductive bias](https://en.wikipedia.org/wiki/Inductive_bias) of our RBF pipeline is actually rotationally invariant. (423)
+* [Broken y-axis](https://stackoverflow.com/questions/63726234/how-to-draw-a-broken-y-axis-catplot-graphes-with-seaborn) (424)
