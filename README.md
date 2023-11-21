@@ -16,3 +16,4 @@ https://github.com/INRIA/scikit-learn-mooc/tree/main/slides/Ubuntu_Mono
 * [Broken y-axis](https://stackoverflow.com/questions/63726234/how-to-draw-a-broken-y-axis-catplot-graphes-with-seaborn) (424)
 * symlog scale (431)
 * Read about pd.Series and pd.Dataframe.
+* Check train_test_split in (414)
