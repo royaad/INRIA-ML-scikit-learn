@@ -5,6 +5,9 @@ The files are numbered following the [Module][Part][Order] format.
 ## github repo:
 https://github.com/INRIA/scikit-learn-mooc/tree/main/slides/Ubuntu_Mono
 
+## YouTube playlist:
+[![playlist](https://i.ytimg.com/vi/ZHUU9ppmOq8/mqdefault.jpg)](https://www.youtube.com/watch?v=jkKO_q1D_-Y&list=PL2okA_2qDJ-m44KooOI7x8tu85wr4ez4f&pp=iAQB)
+
 ## Things to further read about:
 * How "Balanced Accuracy" is computed.
 * HistGradientBoostingClassifier.
