@@ -21,3 +21,4 @@ https://github.com/INRIA/scikit-learn-mooc/tree/main/slides/Ubuntu_Mono
 * Read about pd.Series and pd.Dataframe.
 * Check train_test_split in (414)
 * itertools count() (722)
+* Read about QuantileTransformer, TransformedTargetRegressor, PoissonRegressor, and TweedieRegressor (751)
