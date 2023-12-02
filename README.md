@@ -22,3 +22,4 @@ https://github.com/INRIA/scikit-learn-mooc/tree/main/slides/Ubuntu_Mono
 * Check train_test_split in (414)
 * itertools count() (722)
 * Read about QuantileTransformer, TransformedTargetRegressor, PoissonRegressor, and TweedieRegressor (751)
+* Read about slice() (761)
