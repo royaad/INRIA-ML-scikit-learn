@@ -1,42 +1,31 @@
 # Machine Learning with scikit-learn (INRIA)
 
-## MOOC Modules
+## Massive Open Online Course (MOOC) Modules
 
-| Module #     | Description                      | Topics                                                                                             |
-| ------------ | -------------------------------- | -------------------------------------------------------------------------------------------------- |
-| Introduction | Machine Learning Concepts        |                                                                                                    |
-| Module 1     | The Predictive Modeling Pipeline | Data Exploration, Data Pipeline, Handling Numerical and Categorical Data.                          |
-| Module 2     | Selecting the Best Model         | Underfitting and Overfitting, Validation and Learning Curves, Bias vs. Variance Trade-off.         |
-| Module 3     | Hyperparameter Tuning            | Manual and Automated Tuning, Grid Search, Randomized Search, Nested Cross-Validation.              |
-| Module 4     | Linear Models                    | Non-Linear Feature Engineering, Regularization, Ridge Model.                                       |
-| Module 5     | Decision Tree (DT) Models        | DT in Classification, DT in Regression, DT Hyperparameters                                         |
-| Module 6     | Ensemble of Models               | Bootstrapping, Boosting, Hyperparameter Tuning with Ensemble Methods.                              |
-| Module 7     | Evaluating Model Performance     | Baseline Models, Cross-Validation, Nested Cross-Validation, Classification and Regression Metrics. |
+Explore the fundamentals of machine learning with scikit-learn through our comprehensive MOOC. Each module covers essential concepts and practical applications, equipping learners with valuable skills in predictive modeling.
 
-## File Order/Number
+| Module #     | Description                  | Topics                                                                                |
+| ------------ | ---------------------------- | ------------------------------------------------------------------------------------- |
+| Introduction | Machine Learning Concepts    | Overview of key machine learning concepts.                                            |
+| Module 1     | Predictive Modeling Pipeline | Data Exploration, Handling Numerical and Categorical Data, Building a Data Pipeline.  |
+| Module 2     | Selecting the Best Model     | Validation and Learning Curves, Bias vs. Variance Trade-off, Model Selection.         |
+| Module 3     | Hyperparameter Tuning        | Manual and Automated Tuning, Grid Search, Randomized Search, Nested Cross-Validation. |
+| Module 4     | Linear Models                | Non-Linear Feature Engineering, Regularization, Ridge Model.                          |
+| Module 5     | Decision Tree (DT) Models    | DT in Classification and Regression, DT Hyperparameters.                              |
+| Module 6     | Ensemble of Models           | Bootstrapping, Boosting, Hyperparameter Tuning with Ensemble Methods.                 |
+| Module 7     | Evaluating Model Performance | Baseline Models, Cross-Validation, Classification and Regression Metrics.             |
 
-The files are numbered following the `[Module][Part][Order]` format.
+## Course Components for Each Module
 
-## github repo
+- **Videos:** Watch the instructional videos provided in the [YouTube playlist](https://www.youtube.com/watch?v=jkKO_q1D_-Y&list=PL2okA_2qDJ-m44KooOI7x8tu85wr4ez4f&pp=iAQB).
+- **Exercises:** Practice your skills with hands-on exercises marked by \_ex in the module directories.
+- **Quizzes:** Engage with 2 to 3 small quizzes throughout each module.
+- **Wrap-up Quiz:** Complete a comprehensive wrap-up quiz at the end of each module, available in the "quizzes" folder and the last IPython notebook file of each module directory.
 
-[scikit-learn-mooc](https://github.com/INRIA/scikit-learn-mooc/tree/main/slides/Ubuntu_Mono)
+## File Structure
 
-## YouTube playlist
+The files follow the `[Module][Part][Order]` format for easy navigation through the course content.
 
-[![playlist](https://i.ytimg.com/vi/ZHUU9ppmOq8/mqdefault.jpg)](https://www.youtube.com/watch?v=jkKO_q1D_-Y&list=PL2okA_2qDJ-m44KooOI7x8tu85wr4ez4f&pp=iAQB)
+## GitHub Repository
 
-## Things to further read about
-
-- HistGradientBoostingClassifier.
-- The mathematical definition of "kernels" and "support vector machines" [SVM documentations](https://scikit-learn.org/stable/modules/svm.html) (421).
-- [KBinsDiscretizer](https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.KBinsDiscretizer.html) and [SplineTransformer](https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.SplineTransformer.html).
-- NyStroem
-- XOR
-- RBF. It can be shown mathematically that the [inductive bias](https://en.wikipedia.org/wiki/Inductive_bias) of our RBF pipeline is actually rotationally invariant. (423)
-- [Broken y-axis](https://stackoverflow.com/questions/63726234/how-to-draw-a-broken-y-axis-catplot-graphes-with-seaborn) (424)
-- symlog scale (431)
-- Read about pd.Series and pd.Dataframe.
-- Check train_test_split in (414)
-- itertools count() (722)
-- Read about QuantileTransformer, TransformedTargetRegressor, PoissonRegressor, and TweedieRegressor (751)
-- Read about slice() (761)
+Explore the INRIA course materials, code examples, and quizzes in our GitHub repository: [scikit-learn-mooc](https://github.com/INRIA/scikit-learn-mooc/tree/main/slides/Ubuntu_Mono)
